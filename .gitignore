@@ -1,0 +1,8 @@
+build
+Thirdparty/g2o/build
+Thirdparty/DBoW2/build
+Thirdparty/DBoW2/lib
+Thirdparty/g2o/config.h
+Thirdparty/g2o/lib
+bin
+CMakeLists.txt.user
